@@ -1,0 +1,21 @@
+{
+  "sensitive": {
+    "github_token": ""
+  },
+
+  "projectInfo": {
+    "id": "",
+    "poweredBy": "",
+
+    "shortDescription": []
+  },
+
+  "appName": "easyrinth",
+  "apiEndpoint": "https://api.modrinth.com/v2",
+
+  "badges": {
+    "quilt": "https://raw.githubusercontent.com/intergrav/devins-badges/a8541eb32f418a9e84541d7d04f7d5b6a76fc654/assets/cozy/supported/quilt_vector.svg",
+    "fabric": "https://raw.githubusercontent.com/intergrav/devins-badges/a8541eb32f418a9e84541d7d04f7d5b6a76fc654/assets/cozy/supported/fabric_vector.svg",
+    "forge": "https://raw.githubusercontent.com/intergrav/devins-badges/a8541eb32f418a9e84541d7d04f7d5b6a76fc654/assets/cozy/supported/forge_vector.svg"
+  }
+}
