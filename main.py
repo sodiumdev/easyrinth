@@ -19,7 +19,7 @@ colorama.init()
 
 
 HEADERS = {
-    "User-Agent": f"{config.appName}/0.01a (https://sodiumdev.xyz, Sodium#0001, deep.unstable@gmail.com)",
+    "User-Agent": f"{config.appName}/0.01a (https://sodium.zip, sodium.zip, deep.unstable@gmail.com)",
     "Authorization": config.sensitive.github_token
 }
 
